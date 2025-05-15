@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "f3b28a9d-0e4a-4c26-9a1c-3f8b2f5c50e0",
+      "name": "Maria Silva",
+      "email": "maria.silva@email.com",
+      "bio": "Desenvolvedora front-end apaixonada por React."
+    },
+    {
+      "id": "a93d2e4c-8dbf-4d31-b8c2-1a62e0d104aa",
+      "name": "João Souza",
+      "email": "joao.souza@email.com",
+      "bio": "Entusiasta de tecnologia e amante de café."
+    },
+    {
+      "id": "d5c137b2-3650-421e-87e2-83b7b1767439",
+      "name": "Ana Lima",
+      "email": "ana.lima@email.com",
+      "bio": "Designer UX/UI com foco em acessibilidade."
+    }
+  ]
+}
